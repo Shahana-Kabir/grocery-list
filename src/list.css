@@ -1,0 +1,9 @@
+.list{
+    display: flex;
+}
+
+.list__btn{
+    margin-left: 2rem;
+    width: 4rem;
+    height: 2rem;
+}
